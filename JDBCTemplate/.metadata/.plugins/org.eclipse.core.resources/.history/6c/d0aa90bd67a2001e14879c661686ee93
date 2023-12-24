@@ -1,5 +1,0 @@
-package com.jbdl.JDBCTemplate.models;
-
-public class Student {
-
-}
