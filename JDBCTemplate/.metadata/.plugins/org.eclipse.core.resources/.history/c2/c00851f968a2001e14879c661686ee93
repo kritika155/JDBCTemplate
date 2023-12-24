@@ -1,0 +1,22 @@
+package com.jbdl.JDBCTemplate.Model;
+
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+import lombok.ToString;
+
+@Setter
+@Getter
+@ToString
+@NoArgsConstructor
+@AllArgsConstructor
+@Builder
+public class Student {
+private Integer studId;
+private String studName;
+private String department;
+private Double marks;
+
+}

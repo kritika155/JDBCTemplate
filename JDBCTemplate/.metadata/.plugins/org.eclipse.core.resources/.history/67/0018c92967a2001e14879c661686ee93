@@ -1,0 +1,9 @@
+package com.jbdl.JDBCTemplate.controllers;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+@Requestmapping
+public class StudentController {
+
+}

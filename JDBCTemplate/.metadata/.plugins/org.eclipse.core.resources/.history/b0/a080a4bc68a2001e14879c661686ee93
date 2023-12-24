@@ -1,0 +1,5 @@
+package com.jbdl.JDBCTemplate.Repository;
+
+public class StudentRepository {
+
+}
